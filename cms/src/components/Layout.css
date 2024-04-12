@@ -1,0 +1,17 @@
+.sortable {
+  cursor: pointer;
+  transition: all 0.2s ease-in 0s;
+}
+
+.sortable:hover {
+  opacity: 0.85;
+}
+
+.ql-container {
+  height: 300px !important;
+}
+
+.img-sm {
+  width: auto;
+  height: 50px;
+}
